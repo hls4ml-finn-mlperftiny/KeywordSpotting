@@ -1,0 +1,8 @@
+[submodule "training"]
+	path = training
+	url = https://github.com/fastmachinelearning/KWS-determined-ai/
+    branch = tinyMLPerf_submission
+[submodule "synthesis"]
+	path = synthesis
+	url = https://github.com/fastmachinelearning/finn-examples
+	branch = feature/kws-mlp-3b
